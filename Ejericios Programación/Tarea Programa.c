@@ -12,7 +12,7 @@ int main() {
     printf("Ingrese el incremento: ");
     scanf("%d", &in);
 
-    for (int i = i; i <= f; i = i + in) {
+    for (i = i; i <= f; i = i + in) {
         printf("%d\n", i);
     }
 
